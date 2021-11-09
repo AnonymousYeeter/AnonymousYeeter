@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AnonymousYeeter
+- 👀 I’m making a software that generates a schedule for you
+- 🌱 I’m currently learning machine learning and C++
+- 📫 How to reach me: leo14867@g.lfis.edu.hk
